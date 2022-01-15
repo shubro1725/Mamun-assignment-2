@@ -7,7 +7,7 @@ body{
 }
 
 
-   /* ------------Top-Section -------------*/
+   /* ------------first part -------------*/
 .title h1{
     font-size: 60px;
     color: whitesmoke;
@@ -40,7 +40,7 @@ body{
     transform-origin: center 50%;
 }
 
-/* -----------Middle-Section -------------*/
+/* -----------Middle-part -------------*/
 .middle-section{
     display: flex;
     padding-left: 120px;
@@ -94,7 +94,7 @@ body{
     
 }
 
-/*------------------- Logos-Section---------------- */
+/*------------------- Logos-part---------------- */
 
 .logos{
     display: flex;
@@ -104,7 +104,7 @@ body{
     align-items: center;
 }
 
-/* ------------Product Section------------- */
+/* ------------Product part------------- */
 .Collection-title h1{
     margin-top: 100px;
     text-align: center;
@@ -247,7 +247,7 @@ body{
 
 footer{
     margin-top: 30px;
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
     background-image: linear-gradient(black, rgb(15, 14, 14));
     padding-top: 40px;
@@ -266,7 +266,7 @@ footer{
     font-size: 40px;
 }
 .fab:hover{
-    color: #85d482;
+    color: #d48282;
 }
 
 
